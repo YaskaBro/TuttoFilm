@@ -29,7 +29,7 @@ function movieList() {
   return (
     <div>
       <h1 className="text-3xl font-bold mb-6">Cerca un film dalla lista:</h1>
-      <div className="bg-slate-700">Zona per i filtri per ora</div>                       //filtri per la ricerca
+      <div className="bg-slate-700">Zona per i filtri per ora daje tuttaaaaaaaaaaa</div>                       //filtri per la ricerca
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6"> //griglia per le card immagini
         {movies?.map((movie) => (
           <Card
